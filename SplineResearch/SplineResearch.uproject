@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A990D9B3-4C68-FD7B-E0F4-DE81F72E89E6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SplineResearch",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	]
+}
